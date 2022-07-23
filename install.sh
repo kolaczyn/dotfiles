@@ -9,4 +9,4 @@ cp alt.vim \
    plug.vim \
 ~/.config.nvim
 
-cp .bashrc ~/.bashrc
+echo "set -o vi" >> ~/.bashrc
