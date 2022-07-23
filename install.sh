@@ -1,6 +1,7 @@
 #!/bin/sh
 
 mkdir -p ~/.config/nvim
+cd .config/nvim
 cp alt.vim \
    functions.vim \
    general.vim \
