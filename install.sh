@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir -p ~/.confg/nvim
+mkdir -p ~/.config/nvim
 cp alt.vim \
    functions.vim \
    general.vim \
@@ -9,4 +9,4 @@ cp alt.vim \
    plug.vim \
 ~/.config.nvim
 
-cp bashrc ~/.bashrc
+cp .bashrc ~/.bashrc
